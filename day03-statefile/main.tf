@@ -10,4 +10,4 @@ resource "aws_vpc" "name" {
   tags = {
     Name="ranjit_vpc"
   }
-}
+} 
